@@ -61,4 +61,4 @@ Sistem ini menggunakan prinsip **Normalisasi Database (3NF)** untuk mengurangi r
 4. Selesai! Seluruh tabel, relasi, dan trigger akan otomatis terpasang dan siap digunakan.
 
 ---
-*Proyek ini dikembangkan oleh [Nama Kamu] sebagai bagian dari portofolio Database Development & Backend Engineering.*
+*Proyek ini dikembangkan sebagai bagian dari portofolio Database Development & Backend Engineering.*

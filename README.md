@@ -29,6 +29,9 @@ Sistem otomatis memisahkan data pelanggan yang "hanya bertanya" dengan pelanggan
 
 ## 📂 Struktur & Skema Database
 
+<img width="1063" height="643" alt="Ramen Restaurant Database Schema Architecture" src="https://github.com/user-attachments/assets/43dba28d-2ed0-4134-9a96-54c6df73dbf3" />
+
+
 Sistem ini menggunakan prinsip **Normalisasi Database (3NF)** untuk mengurangi redundansi data.
 
 ### A. Modul Transaksi (Sales)
